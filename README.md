@@ -48,4 +48,6 @@ Nexus darknet site access opens the gateway to one of the darknet's most trusted
 
 *Official Nexus link:* http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion
 
-Update:  14 September 2025 The link is live and working smoothly.
+
+
+Update:  18.09.2025
